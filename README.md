@@ -1,5 +1,6 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
-
+## NAME : G P HARIESH 
+## REG.NO : 21222404100
 # AIM:
 To design and draw the UML diagrams for the Hospital Management System
 
